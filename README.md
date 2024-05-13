@@ -1,5 +1,5 @@
 # Lucas Quaresma
-*Data Scientist | MSc Metallurgical Engineering | Applied AI and Simulation Specialist*
+Data Scientist | MSc Metallurgical Engineering | Applied AI and Simulation Specialist
 
 I'm a **Metallurgical Engineer** from [Instituto Federal do Espírito Santo](https://www.ifes.edu.br/), who works with computational modeling of real world systems. There i also completed my **MSc** in the same field. Currently, I'm a **student of Computer Science** on [Uniamérica/Descomplica](https://uniamerica.br/) where I intend to further improve and complete my skills on the Field.
 
@@ -20,7 +20,7 @@ I'm a **Metallurgical Engineer** from [Instituto Federal do Espírito Santo](htt
 |       Databases        |        <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=sqlite"> </a> </p>        |          <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=postgres,mongodb"> </a> </p>          |
 | Embedded and sensoring |       <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=arduino"> </a> </p>        |            <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=raspberrypi"> </a> </p>             |
 |         Cloud          |         <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=aws"> </a> </p>          |             <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=azure,gcp"> </a> </p>              |
-|        Systems         |  <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint"> </a> </p>   |           <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=windows,debian"> </a> </p>           |
+|        Systems         |     <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=linux,ubuntu"> </a> </p>     |        <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=mint,debian,windows"> </a> </p>         |
 |         Others         | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=git,github,md,vscode"> </a> </p> |       <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=powershell,latex,regex"> </a> </p>       |
 
 
