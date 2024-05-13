@@ -38,7 +38,7 @@ I've extensive experience with several types of systems and processes. Below fol
 	- **Exploratory analysis:** relational and non-relational databases, datalakes...
 - **Computational Modeling**
 	- **Data driven approaches:**
-		- **Machine Learning:** supervised, unsupervised and reinforcement learning models.= applied in several domain types.
+		- **Machine Learning:** supervised, unsupervised and reinforcement learning models applied in several domain types.
 		- **Traditional Techniques:** statistical analysis, multivariate nonlinear regressions...
 	- **Process based approaches:**
 		- **Computer Aided Engineering (CAE) - Bootstrap**: Finite Difference Method (FDM), Finite Volume Method (FVM), Finite Element Method (FEM), Discrete Element Method (DEM), Boundary Element Method (BEM).
