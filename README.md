@@ -20,7 +20,7 @@ I'm a **Metallurgical Engineer** from [Instituto Federal do Espírito Santo](htt
 |       Databases        |        <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=sqlite"> </a> </p>        |          <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=postgres,mongodb"> </a> </p>          |
 | Embedded and sensoring |       <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=arduino"> </a> </p>        |            <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=raspberrypi"> </a> </p>             |
 |         Cloud          |         <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=aws"> </a> </p>          |             <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=azure,gcp"> </a> </p>              |
-|        Systems         |     <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=linux,ubuntu"> </a> </p>     |        <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=mint,debian,windows"> </a> </p>         |
+|        Systems         |     <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=nix,linux"> </a> </p>     |        <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows"> </a> </p>         |
 |         Others         | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=git,github,md,vscode"> </a> </p> |       <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=powershell,latex,regex"> </a> </p>       |
 
 
